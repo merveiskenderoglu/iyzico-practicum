@@ -1,0 +1,63 @@
+.container {
+    width:1000px;
+    margin: 0 auto;
+}
+
+.m-auto {
+    display: block;
+    width: auto;
+    margin: auto;    
+}
+
+.form {
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+}
+
+.box-1 {
+    width: 37%;
+    background-color: #7EE5DA;
+    float: left;
+    text-align: center;
+    margin-right: 2px;
+    padding: 8px 0px ;
+    height: 100%;
+    
+}
+
+.box-2 {
+    float: left;
+    text-align: center;
+    background-color:#70CCC2;
+    width: 20%;
+    margin-right: 2px;
+    font-size: small;
+    padding: 7px 0px ;
+    height: 100%;
+    
+    
+}
+
+.box-3 {
+    float: left;
+    text-align: center;
+    background-color:#62B3AA;
+    width: calc(43% - 4px);
+    height: 100%;
+    font-size: small;
+    height: 100%;
+    
+}
+
+.margin-top {
+    margin-top: 2px;
+    
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.text-center {
+    text-align: center;
+}
